@@ -7,17 +7,9 @@ body{
     background-color: rgb(133, 204, 216);
 }
 
-#stickery1{
-    align-items: center;
-    justify-content: center;
+td{
+    color: white;
 }
-
-#content1{
-    font-size: 20px;
+h1{
     font-weight: bold;
-
-}
-
-#intro{
-    font-size: 20px;
 }
