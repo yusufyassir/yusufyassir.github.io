@@ -2,6 +2,9 @@
     body {
     font-size: 60px;
 }
+.btn{
+    font-size: 60px;
+}
 }
 
 @media (min-width:1280px){
